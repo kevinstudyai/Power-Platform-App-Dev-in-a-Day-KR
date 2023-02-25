@@ -72,6 +72,7 @@ namespace BasicAuthApp
             // ⬆️⬆️⬆️ 위의 코드 주석을 풀어주세요 ⬆️⬆️⬆️
         }
 
+
         private static void ConfigureHttpClient(IServiceCollection services)
         {
             services.AddHttpClient("profile");
