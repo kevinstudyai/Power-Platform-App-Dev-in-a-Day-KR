@@ -5,6 +5,7 @@
     "path": "ApiKeyAuthApp",
     "nv": "API_KEY_AUTH"
   },
+  
   {
     "name": "basicauth",
     "suffix": "basic-auth",
